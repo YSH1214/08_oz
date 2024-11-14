@@ -7,5 +7,5 @@ Git파일 commit하는 순서
     - git config user.email '000@000.com"
 
 '''
-git init
+    git init
 '''
