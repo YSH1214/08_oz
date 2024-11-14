@@ -6,6 +6,3 @@ Git파일 commit하는 순서
     - git config user.name "00000"
     - git config user.email '000@000.com"
 
-'''
-    git init
-'''
