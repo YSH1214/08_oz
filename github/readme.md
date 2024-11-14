@@ -5,3 +5,7 @@ Git파일 commit하는 순서
 2. git config를 이용한 기본 설정
     - git config user.name "00000"
     - git config user.email '000@000.com"
+
+'''
+git init
+'''
